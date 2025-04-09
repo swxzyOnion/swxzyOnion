@@ -10,7 +10,7 @@ i love knowledge,constantly trying my best to learn new things.
 
 - **Programming Languages**: C,a little bit of Assembly, Python, Java, JavaScript, HTML and CSS  
 - **Currently learning**: MySQL 
-- **Operating Systems**: My main OS is Windows but i use Linux too on VM
+- **Operating Systems**: Windows and Linux (Debian)
 
 
 
