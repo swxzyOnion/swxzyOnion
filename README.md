@@ -9,7 +9,8 @@ i love knowledge,constantly trying my best to learn new things.
 ## Skills
 
 - **Programming Languages**: C,a little bit of Assembly, Python, Java, JavaScript, HTML and CSS  
-- **Currently learning**: MySQL 
+- **Knowledge**: Relational databse,in particular PostgreSQL
+- **Currently studying**: React
 - **Operating Systems**: Windows and Linux (Debian)
 
 
